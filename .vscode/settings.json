@@ -7,6 +7,7 @@
         "htmlcov",
         "ipynb",
         "ipython",
+        "levelname",
         "mkdocs",
         "mypy",
         "nosetests",
