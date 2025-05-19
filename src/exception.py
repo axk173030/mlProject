@@ -21,10 +21,3 @@ class CustomException(Exception):
 
     def __str__(self):
         return self.error_message
-    
-
-    try:
-        a=1/0
-    except:
-        logging.error("Divide by zero error")
-        raise CustomException("Divide by zero error",sys) from None
