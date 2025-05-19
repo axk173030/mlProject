@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
+        "catboost",
         "celerybeat",
         "Connor",
         "cython",
@@ -8,6 +9,8 @@
         "ipynb",
         "ipython",
         "levelname",
+        "matlpotlib",
+        "matplotlib",
         "mkdocs",
         "mypy",
         "nosetests",
@@ -23,7 +26,9 @@
         "pypirc",
         "pytest",
         "pytype",
+        "regplot",
         "ropeproject",
+        "scikit",
         "scrapy",
         "sdist",
         "seaborn",
@@ -31,6 +36,9 @@
         "spyderproject",
         "spyproject",
         "venv",
-        "webassets"
+        "webassets",
+        "xgboost",
+        "xlabel",
+        "ylabel"
     ]
 }
